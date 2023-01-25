@@ -1,3 +1,8 @@
+## Link to Visualization
+https://public.tableau.com/app/profile/kodchalerk.moolkul/viz/PropertySoldRecordofTenneseeOwners/Dashboard2
+
+
+## Overview data
 select
 *
 from
@@ -101,7 +106,5 @@ from
 nashvillecleaned
 group by
 OwnerAddress3;
-
-
 
 
